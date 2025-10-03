@@ -46,6 +46,7 @@ header .informacoes p {
 }
 
 main {
+    font-family: Arial, Helvetica, sans-serif;
     margin: 2rem;
     font-size: 17px;
 }
@@ -135,4 +136,5 @@ nav ul li:hover {
         margin: 1rem;
     }
 }
+
 
