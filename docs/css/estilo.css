@@ -2,7 +2,6 @@ header {
     padding: 3rem 2rem;
     display: flex;
     align-items: center;
-    justify-content: flex-start;
     background-color: #000000;
     position: relative;
 }
@@ -136,5 +135,6 @@ nav ul li:hover {
         margin: 1rem;
     }
 }
+
 
 
