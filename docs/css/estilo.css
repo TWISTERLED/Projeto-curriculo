@@ -1,9 +1,7 @@
 header {
     padding: 3rem 2rem;
     display: flex;
-    align-items: center;
     background-color: #000000;
-    position: relative;
 }
 
 header .foto img {
@@ -13,18 +11,16 @@ header .foto img {
 }
 
 #topo img {
-    height: 1.5rem;                 
-    border: 2px solid #ffffff80;     
-    border-radius: 5px;              
+    height: 1.5rem;
+    border: 2px solid #ffffff80;
+    border-radius: 5px;
     transition: transform 0.2s, box-shadow 0.2s;
 }
 
 #topo img:hover {
-    transform: scale(1.1);           
-    box-shadow: 0 0 8px rgba(255,255,255,0.5);
+    transform: scale(1.1);
+    box-shadow: 0 0 8px rgba(255, 255, 255, 0.5);
 }
-
-
 
 header .informacoes {
     padding-left: 2rem;
@@ -135,6 +131,3 @@ nav ul li:hover {
         margin: 1rem;
     }
 }
-
-
-
